@@ -27,4 +27,5 @@ func main() {
 	var myVarMulHetero1, myVarMulHetero2, myVarMulHetero3 = 2, "GeeksforGeeks", 4
 	fmt.Printf("Homogenous variable declarations %d %d %d\n", myVarMulHomo1, myVarMulHomo2, myVarMulHomo3)
 	fmt.Printf("Heterogenous declarations %d, %s, %d\n", myVarMulHetero1, myVarMulHetero2, myVarMulHetero3)
+
 }
