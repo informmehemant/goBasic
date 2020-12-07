@@ -16,4 +16,7 @@ func main() {
 	fmt.Println(joinstr("Geek","Geeks"))
 	fmt.Println(joinstr("Geek","for","Geeks"))
 	fmt.Println(joinstr("G","E","E","k","s"))
+
+	// pass a slice in variadic function
+	
 }
