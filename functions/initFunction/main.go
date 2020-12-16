@@ -10,6 +10,7 @@ func init() {
 func init() {
 	fmt.Println("Hello! init() function")
 }
+
 func main() {
 	fmt.Println("Welcome to main() fucntion ")
 }
