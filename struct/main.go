@@ -43,4 +43,21 @@ func main() {
 
 	fmt.Println("\n Details of Author")
 	fmt.Println(result)
+
+	//  Creating Anonmous functions
+
+	Element := struct {
+		name  string
+		branch string 
+		language string 
+		lanaguage string 
+		particles int
+	} {
+		name: "Pikachu",
+		branch: "ECE",
+		language: "go language",
+		particles: 456,
+	}
+
+	fmt.Println(Element)
 }
